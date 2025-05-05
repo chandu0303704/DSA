@@ -1,1 +1,19 @@
+import java.util.*;
+
+ class Main {
+    public static void main(String[] args) {
+    Scanner ip = new Scanner(System.in);
+    int a =ip.nextInt();
+    System.out.println(a);
+    }
+}   
+
+//--
+before scnner class we have string buffer .in srtring buffer only strings will accept
+after we can convert it . but can do multiple conversions so scanner class is using
+// create a class using class keyword a name of thre cLASS THE STRATING LETTEr should be the capital
+//  all the methods  name of the method should be small 
+
+      
+ 
 
